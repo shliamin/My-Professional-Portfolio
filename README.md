@@ -1,2 +1,2 @@
 # My-Professional-Portfolio
-Professional Portfolio: Showcasing My Work in Software Engineering, Data Science, Bioinformatics, and Machine Learning
+Professional portfolio: showcasing my work in software engineering, data science, bioinformatics, and machine learning, as well as other documents related to my education.
