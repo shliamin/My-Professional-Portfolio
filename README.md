@@ -32,7 +32,7 @@ Within this repository, you'll find links to my certificates, documents, and oth
 - [**Karate Championship Medal**](https://github.com/shliamin/My-Professional-Portfolio/blob/master/My%20karate%20medals.JPG) - a picture of all my medals from my childhood
 - [**Academic Award for Outstanding Academic Achievements in School**](https://github.com/shliamin/My-Professional-Portfolio/blob/master/Zeugnis%20-%20volle%20Mittelschulbildung.pdf) - in German
 - [**Language Proficiency C1-Certificate**](https://github.com/shliamin/My-Professional-Portfolio/blob/master/Zertifikat%20C1.pdf) - in German
-- [**College Graduation Certificate for International Students**](https://github.com/shliamin/My-Professional-Portfolio/blob/master/Feststellungsprüfung.pdf) - in German
+- [**College Graduation Certificate for International Students**](https://github.com/shliamin/My-Professional-Portfolio/blob/master/Feststellungspruefung.pdf) - in German
 - [**Professional Letter of Recommendation from Rhenus Logistics**](https://github.com/shliamin/My-Professional-Portfolio/blob/master/Internship%20Reference%20Rhenus%20Logistics.pdf)
 - [**Boot Camp 'Le Wagon' Nabo-Project Overview**](https://github.com/kjartur/nabo)
 - [**Boot Camp 'Le Wagon' Certificate of Completion**](https://github.com/shliamin/My-Professional-Portfolio/blob/master/Le%20Wagon%20Certificate.pdf)
