@@ -29,7 +29,7 @@ My professional reliability and competence were further recognized during my ten
 
 Within this repository, you'll find links to my certificates, documents, and other significant achievements that highlight my journey. Each folder and document tells a story of challenges met with determination and opportunities seized with passion.
 
-- Karate Championship Medal
+- [**Karate Championship Medal**]([URL](https://github.com/shliamin/My-Professional-Portfolio/blob/master/My%20karate%20medals.JPG) "A testament to my early determination and ability to overcome challenges.")
 - Language Proficiency Certificates
 - Academic Awards and Recognitions
 - Boot Camp 'Le Wagon' Project Overview
