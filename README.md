@@ -38,6 +38,8 @@ Within this repository, you'll find links to my certificates, documents, and oth
 - [**Boot Camp 'Le Wagon' Certificate of Completion**](https://github.com/shliamin/My-Professional-Portfolio/blob/master/Le%20Wagon%20Certificate.pdf)
 - [**Boot Camp 'Le Wagon' Nabo-Project Video Presentation**](https://vimeo.com/manage/videos/350106893)
 - [**Certificate of Сompletion of the Internship at the HTW-Berlin**](https://github.com/shliamin/My-Professional-Portfolio/blob/master/Praktikumszeugnis%20HTW%20Berlin.pdf) - in German
+- [**Certificate MERN Stack - Udemy**](https://github.com/shliamin/mern)
+- [**Certificate Microservices - Udemy**](https://github.com/shliamin/microservices)
 - [**Bachelor's Thesis Abstract**](https://github.com/shliamin/NGS-pipeline)
 - **Volunteer Appreciation Letters** - I don't have such a document as I have helped people unofficially, I only have correspondence with the people I helped, but I can't publish it without authorization
 
